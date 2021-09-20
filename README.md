@@ -14,8 +14,8 @@ The purpose of this project is to visually show the differences between the magn
 
 The user can choose 3 different views:
 
-<img src = "../Resources/Dark.png"></img>
+![img](https://github.com/CarmenU18/Mapping_Earthquakes/blob/main/Resources/Dark.PNG)
 
-<img src = "../Resources/Satellite.png"></img>
+![img](https://github.com/CarmenU18/Mapping_Earthquakes/blob/main/Resources/Satellite.PNG)
 
-<img src = "../Resources/Streets.png"></img>
+![img](https://github.com/CarmenU18/Mapping_Earthquakes/blob/main/Resources/Streets.PNG)
