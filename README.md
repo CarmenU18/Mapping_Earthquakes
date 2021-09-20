@@ -14,8 +14,8 @@ The purpose of this project is to visually show the differences between the magn
 
 The user can choose 3 different views:
 
-<img src = "Resources/Dark.png"></img>
+<img src = "../Resources/Dark.png"></img>
 
-<img src = "Resources/Satellite.png"></img>
+<img src = "../Resources/Satellite.png"></img>
 
-<img src = "Resources/Streets.png"></img>
+<img src = "../Resources/Streets.png"></img>
